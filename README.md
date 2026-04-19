@@ -24,7 +24,7 @@ Work in progress — 20 scenarios total, documenting as I go.
 
 | # | Scenario | Status |
 |---|----------|--------|
-| 01 | Account Lockout Investigation | 🔄 In Progress |
+| 01 | Account Lockout Investigation | ✅ Complete |
 | 02 | Password Reset | ⬜ Upcoming |
 | 03 | Shared Drive Permissions | ⬜ Upcoming |
 | 04 | No Internet Access | ⬜ Upcoming |
