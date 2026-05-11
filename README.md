@@ -25,7 +25,7 @@ Work in progress — 20 scenarios total, documenting as I go.
 | # | Scenario | Status |
 |---|----------|--------|
 | 01 | Account Lockout Investigation | ✅ Complete |
-| 02 | Password Reset | ⬜ Upcoming |
+| 02 | Password Reset | 🔄️ In Process |
 | 03 | Shared Drive Permissions | ⬜ Upcoming |
 | 04 | No Internet Access | ⬜ Upcoming |
 | 05 | DNS Resolution Failure | ⬜ Upcoming |
