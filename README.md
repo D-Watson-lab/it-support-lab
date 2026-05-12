@@ -1,6 +1,6 @@
 # IT Support Labs — Daryl Watson
 
-## Breaking things. Fixing them. Documenting it with humor and sass.
+## Breaking things. Fixing them. Documenting it all.
 
 This repository is a hands-on IT support investigation portfolio built in a 
 home lab environment running Windows Server 2022, Active Directory, and 
